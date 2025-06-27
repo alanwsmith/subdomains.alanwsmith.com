@@ -1,5 +1,5 @@
 {
-  site_name: "a new site",
-  description: "a work in progress",
-  domain: "https://new.alanwsmith.com/",
+  site_name: "How To Grown Your Digital Garden With Subdomains",
+  description: "Encouragement to use subdomains for playing and experimenting on a clean slate",
+  domain: "https://subdomains.alanwsmith.com/",
 }
